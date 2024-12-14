@@ -58,3 +58,8 @@ Barplot 3: Average orders by age group.
 
 7. Save Results
 The final cleaned and merged dataset is saved as merged_data.csv in the output/ folder.
+
+8.Business Recommendations:
+1. Focus on promoting the most popular dishes to drive further engagement.
+2. Enhance meal options that show high average orders (e.g., specific favorite meals).
+
